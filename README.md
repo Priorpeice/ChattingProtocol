@@ -60,7 +60,9 @@
     - 나만의 프로토콜
     
     채팅방에서의 데이터 구조는 아래와 같습니다.
+  
     ![Untitled 2](https://github.com/user-attachments/assets/b4a96b03-0062-4cb3-a71c-ebad693521fd)
+  
     ![Untitled 3](https://github.com/user-attachments/assets/e5505324-38bf-482e-8dbf-1ae124829baf)
   
     하지만 사용자의 입장에서는 Group 명령어 방이름만 작성하는 것으로 복잡한 헤더를 작성하지 않도록 설계 및 구현했습니다.
